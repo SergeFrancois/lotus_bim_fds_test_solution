@@ -1,1 +1,0 @@
-# lotus_bim_fds_test_solution
